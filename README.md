@@ -1,6 +1,6 @@
 # UPDATE
 
-A new version of this program is available with a GUI interface check it out <a href="https://github.com/Eusha425/Fibonacci-Series"> here </a>
+A new version of this program is available with a GUI interface check it out <a href="https://github.com/Eusha425/give-me-date"> here </a>
 
 ## calendar-problem
 
